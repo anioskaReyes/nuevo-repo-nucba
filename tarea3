@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
-    <title>tarea 1</title>
+    <title>tarea 3</title>
 </head>
 <body>
     
@@ -27,25 +25,15 @@
          
             </div>
         </form>
-    
-    
-
 
 </section>
     
     <br/>
-        
-
-        
-            <section>
-                <form>
-
+       <section>
+            <form>
                     <label for="profesion"> Modalidad de cursada:</label>
-
                     <input type="radio" name="profesion" id="ondemond">
-                    <label for="profesion"> On-demond</label>
-                    
-                    
+                    <label for="profesion"> On-demond</label>                                       
                     <input type="radio" name="profesion" id="envivo">
                     <label for="profesion"> En vivo</label>
                     
@@ -82,7 +70,4 @@
 
         </main>
         </body>
-
-
-
 </html>
